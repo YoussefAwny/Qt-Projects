@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>D:/Learning Engineering/qt Tutorials/Icons/Copy.bmp</file>
+        <file>D:/Learning Engineering/qt Tutorials/Icons/Cut.bmp</file>
+        <file>D:/Learning Engineering/qt Tutorials/Icons/DeleteSticky.bmp</file>
+        <file>D:/Learning Engineering/qt Tutorials/Icons/Highlight.bmp</file>
+        <file>D:/Learning Engineering/qt Tutorials/Icons/New.bmp</file>
+        <file>D:/Learning Engineering/qt Tutorials/Icons/Open.bmp</file>
+        <file>D:/Learning Engineering/qt Tutorials/Icons/Paste.bmp</file>
+        <file>D:/Learning Engineering/qt Tutorials/Icons/Save.bmp</file>
+        <file>D:/Learning Engineering/qt Tutorials/Icons/Turtle.png</file>
+    </qresource>
+</RCC>
